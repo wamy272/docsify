@@ -1,4 +1,5 @@
 <!-- 侧边栏 docs/_sidebar.md -->
+- The Red Gang Tailors
 - Team introduce
 - Daily homework
   - [1. PM]()
